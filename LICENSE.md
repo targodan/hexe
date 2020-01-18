@@ -1,16 +1,3 @@
-# hexe
-
-Decodes raw binary, hex or base64 and tries to interpret it as different kinds of values, such as `int64` or `uint32`.
-
-CAUTION: This is very much a work in progress!
-The output isn't pretty and it doesn't support nearly as many interpreters as I would like (yet).
-
-## The Name
-
-Hexe is german for "witch" but it also contains "hex" as in "hexadecimal"... `¯\_(ツ)_/¯`
-
-# License
-
 Copyright 2020 Luca Corbatto
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
